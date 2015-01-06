@@ -1,0 +1,15 @@
+http://www.hindawi.com/journals/bmri/2014/781670/tab1/
+
+http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+
+Research paper - Lit Survey
+2008 - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2566906/
+2011 - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3128446/
+2012 - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3570838/
+2014 - http://informahealthcare.com/doi/abs/10.1185/03007995.2014.981632
+2014 - http://www.sciencedirect.com/science/article/pii/S0957417414006812
+
+coming up - Zhang, Haoting, Lingyun Shao, and Chengyu Xi. "Predicting the treatment effect in diabetes patients using classification models." International Journal of Digital Content Technology & its Applications 8.5 (2014).
+
+extra info
+http://www.nlm.nih.gov/medlineplus/healthstatistics.html
